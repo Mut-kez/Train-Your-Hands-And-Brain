@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "Project"
+echo " The Project is open"
