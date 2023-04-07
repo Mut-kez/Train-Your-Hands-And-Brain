@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Testing Functions</title>
+</head>
+<body>
+	<script>
+		function lastLetter(str) {
+			return str.charAt(str.length - 1);
+		}
+
+		
+		console.log(lastLetter("xyz")); 
+		console.log(lastLetter("hello people")); 
+		console.log(lastLetter("9876")); 
+	</script>
+</body>
+</html>
